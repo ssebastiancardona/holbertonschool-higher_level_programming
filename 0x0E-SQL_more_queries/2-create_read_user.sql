@@ -1,0 +1,5 @@
+-- crea la base de datos hbtn_0d_2 y el usuario user_0d_2.
+-- user_0d_2 debe tener solo el privilegio SELECT en la base de datos hbtn_0d_2
+-- La contraseña user_0d_2 debe establecerse en user_0d_2_pwd
+-- Si la base de datos hbtn_0d_2 ya existe, su script no debería fallar
+-- Si el usuario user_0d_2 ya existe, su secuencia de comandos no debería fallar.
