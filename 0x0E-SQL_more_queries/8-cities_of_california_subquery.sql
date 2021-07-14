@@ -1,0 +1,5 @@
+-- enumera todas las ciudades de California que se pueden encontrar en la base de datos hbtn_0d_usa.
+-- La tabla de estados contiene solo un registro donde nombre = California
+-- Los resultados se deben ordenar en orden ascendente por ciudades.
+-- No está autorizado a utilizar la palabra clave JOIN.
+-- El nombre de la base de datos se pasará como argumento del comando mysql
