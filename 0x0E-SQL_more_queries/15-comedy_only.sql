@@ -1,0 +1,6 @@
+-- enumera todos los programas de comedia en la base de datos hbtn_0d_tvshows.
+-- La tabla tv_genres contiene solo un registro donde name = Comedy (pero la identificación puede ser diferente)
+-- Cada registro debe mostrar: tv_shows.title
+-- Los resultados deben ordenarse en orden ascendente por el título del programa.
+-- Puede usar solo una instrucción SELECT
+-- El nombre de la base de datos se pasará como argumento del comando mysql
