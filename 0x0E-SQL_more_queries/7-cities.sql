@@ -1,0 +1,7 @@
+-- crea la base de datos hbtn_0d_usa y la tabla de ciudades (en la base de datos hbtn_0d_usa) en su servidor MySQL.
+-- descripción de las ciudades:
+-- id INT único, generado automáticamente, no puede ser nulo y es una clave principal
+-- state_id INT, no puede ser nulo y debe ser una CLAVE EXTRANJERA que haga referencia al id de la tabla de estados
+-- el nombre VARCHAR (256) no puede ser nulo
+-- Si la base de datos hbtn_0d_usa ya existe, su script no debería fallar
+-- Si la tabla de ciudades ya existe, su script no debería fallar.
