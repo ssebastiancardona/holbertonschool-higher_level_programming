@@ -1,0 +1,6 @@
+-- crea la base de datos hbtn_0d_usa y los estados de la tabla (en la base de datos hbtn_0d_usa) en su servidor MySQL.
+-- descripción de estados:
+-- id INT único, generado automáticamente, no puede ser nulo y es una clave principal
+-- el nombre VARCHAR (256) no puede ser nulo
+-- Si la base de datos hbtn_0d_usa ya existe, su script no debería fallar
+-- Si los estados de la tabla ya existen, su secuencia de comandos no debería fallar
