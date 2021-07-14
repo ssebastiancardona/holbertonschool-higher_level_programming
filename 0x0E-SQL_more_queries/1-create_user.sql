@@ -1,0 +1,4 @@
+-- crea el usuario del servidor MySQL user_0d_1.
+-- user_0d_1 debe tener todos los privilegios en su servidor MySQL
+-- La contraseña de user_0d_1 debe establecerse en user_0d_1_pwd
+-- Si el usuario user_0d_1 ya existe, su secuencia de comandos no debería fallar.
