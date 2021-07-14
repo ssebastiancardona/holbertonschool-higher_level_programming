@@ -1,0 +1,6 @@
+-- enumera todos los géneros del programa Dexter.
+-- La tabla tv_shows contiene solo un registro donde title = Dexter (pero la identificación puede ser diferente)
+-- Cada registro debe mostrar: tv_genres.name
+-- Los resultados deben ordenarse en orden ascendente por el nombre del género.
+-- Puede usar solo una instrucción SELECT
+-- El nombre de la base de datos se pasará como argumento del comando mysql
