@@ -1,0 +1,5 @@
+-- enumera todos los programas contenidos en hbtn_0d_tvshows sin un género vinculado.
+-- Cada registro debe mostrar: tv_shows.title - tv_show_genres.genre_id
+-- Los resultados deben ordenarse en orden ascendente por tv_shows.title y tv_show_genres.genre_id
+-- Puede usar solo una instrucción SELECT
+-- El nombre de la base de datos se pasará como argumento del comando mysql
